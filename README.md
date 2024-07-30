@@ -1,1 +1,3 @@
-# 01_Sample-Repository
+# 01_Sample-Repository 
+
+This is My First Repository Sample--
